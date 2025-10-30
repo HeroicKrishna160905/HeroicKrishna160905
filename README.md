@@ -47,8 +47,10 @@ print(me.greet())
 ## 🧠 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,cpp,git,tensorflow,pytorch,opencv,streamlit,linux,vscode,sklearn,github" />
+  <img src="https://skillicons.dev/icons?i=python,matlab,cpp,git,tensorflow,pytorch,opencv,linux,vscode,sklearn,github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit"/>
 </p>
+
 
 ---
 
