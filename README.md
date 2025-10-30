@@ -16,9 +16,9 @@
   </a>
 </p>
 
-<!-- ✨ Typing Animation -->
+<!-- ✨ Typing Animation (Fixed Width) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Electrical+Engineer+%7C+AI+Researcher+%7C+Quant+Thinker;Building+Systems+that+Learn%2C+Trade%2C+and+Evolve;Where+Math+Meets+Intelligence+⚙️" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=Electrical+Engineer+%7C+AI+Researcher+%7C+Quant+Thinker;Building+Systems+that+Learn%2C+Trade%2C+and+Evolve;Where+Math+Meets+Intelligence+⚙️" alt="Typing SVG">
 </p>
 
 ---
