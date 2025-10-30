@@ -1,18 +1,24 @@
-<!-- 💠 HEADER -->
+<!-- 🌌 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=150&section=header&text=Krishna%20Barai%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=140&section=header&text=Krishna%20Barai%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/krishna-barai-9a3889227"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/HeroicKrishna160905"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:2024eeb052.krishna@students.iiests.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Electrical+Engineer+%7C+AI+Researcher+%7C+Quant+Thinker;Building+Systems+that+Learn%2C+Trade%2C+and+Evolve;Where+Math+Meets+Intelligence+⚙️" alt="Typing SVG" />
+  <!-- 🔗 Social Badges -->
+  <a href="https://linkedin.com/in/krishna-barai-9a3889227">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://github.com/HeroicKrishna160905">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:2024eeb052.krishna@students.iiests.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<!-- ✨ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Electrical+Engineer+%7C+AI+Researcher+%7C+Quant+Thinker;Building+Systems+that+Learn%2C+Trade%2C+and+Evolve;Where+Math+Meets+Intelligence+⚙️" alt="Typing SVG">
 </p>
 
 ---
