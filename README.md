@@ -1,126 +1,124 @@
-<!-- 🌌 HEADER -->
+<!-- 1) Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=140&section=header&text=Krishna%20Barai%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=150&section=header&text=Krishna%20Barai&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<!-- 2) Typing Animation (main) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Control+Systems+Engineer;Simulation+Driven+Research;RL+%7C+Physiology+%7C+Quantitative+Models" />
+</p>
+
+<!-- 7) Matrix-style line -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Modeling+Complex+Systems;Engineering+Intelligence;Math+%E2%86%92+Code+%E2%86%92+Reality" />
+</p>
+
+# Krishna Barai
+
+**Electrical Engineering @ IIEST Shibpur (EE ’28)**  
+Control Systems • Computational Modeling • Reinforcement Learning • Quantitative Systems  
+
+<p align="center">
+  <!-- 4) Subtle divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
+## About
+
+I build simulation-driven systems at the intersection of:
+
+- Control theory  
+- Machine learning  
+- Physiological system modeling  
+- Reinforcement learning  
+- Quantitative finance  
+
+My work focuses on understanding and engineering **complex dynamic systems** — from artificial pancreas models and power grids to learning agents and markets.
+
+> Elegance in thought. Precision in code. Depth in understanding.
+
+<p align="center">
+  <!-- 4) Subtle divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
+## Research Direction
+
+- Glucose–insulin system modeling & control  
+- Artificial pancreas simulation frameworks  
+- System identification & physiological dynamics  
+- RL for closed-loop decision systems  
+- Simulation-first engineering  
+
+<p align="center">
+  <!-- 4) Subtle divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
+## Selected Work
+
+- **betalab** — research framework for glucose–insulin modeling and experimentation  
+- **GlySimLab** — physiological control systems research platform  
+- **Project-Endocrine** — artificial pancreas simulator with adaptive control + RL  
+- **power-grid-analysis** — simulation & optimization tools for electrical networks  
+- **control-systems-visualizer** — interactive dynamic system analysis  
+- **stock-alpha-beta-app** — Monte Carlo portfolio risk exploration  
+
+<p align="center">
+  <!-- 4) Subtle divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
+## Technical Stack
+
+<!-- 5) Skill icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,matlab,cpp,pytorch,tensorflow,git,linux,vscode" />
+</p>
+
+Python • MATLAB • C++  
+Control Systems • Numerical Simulation • RL • Scientific Computing  
+
+<p align="center">
+  <!-- 4) Subtle divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HeroicKrishna160905&show_icons=true&hide_border=true&theme=default&cache_seconds=1800" height="150"/>
 </p>
 
 <p align="center">
-  <!-- 🔗 Social Badges -->
-  <a href="https://linkedin.com/in/krishna-barai-9a3889227">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/HeroicKrishna160905">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <!-- 4) Subtle divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
+## Contact
+
+<p align="center">
   <a href="mailto:2024eeb052.krishna@students.iiests.ac.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</p>
-
-<!-- ✨ Typing Animation (Fixed Width) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=Electrical+Engineer+%7C+AI+Researcher+%7C+Quant+Thinker;Building+Systems+that+Learn%2C+Trade%2C+and+Evolve;Where+Math+Meets+Intelligence+⚙️" alt="Typing SVG">
-</p>
-
----
-
-## 👋 About Me
-```python
-class KrishnaBarai:
-    def __init__(self):
-        self.field = "Electrical Engineering @ IIEST Shibpur"
-        self.focus = ["AI/ML", "Quantitative Finance", "Control Systems", "Reinforcement Learning"]
-        self.motto = "Elegance in thought. Precision in code. Purpose in creation."
-
-    def greet(self):
-        return "Hey there 👋 — welcome to my world of intelligent systems!"
-
-me = KrishnaBarai()
-print(me.greet())
-```
-
-🧭 Exploring: neural architectures • control visualization • algorithmic trading  
-🎯 Goal: blend **engineering, math & intelligence** into real-world systems  
-💬 Motto: “Seek elegance in thought, precision in creation, and depth in understanding.”
-
----
-
-## 🧠 Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,cpp,git,tensorflow,pytorch,opencv,linux,vscode,sklearn,github" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit"/>
-</p>
-
-
----
-
-## 🔥 Featured Projects
-
-| 🚀 Project | 💡 Description | 🧰 Tech |
-|-------------|----------------|---------|
-| 🎛️ [Control Systems Visualizer](https://github.com/HeroicKrishna160905/control-systems-visualizer) | Real-time GUI for first-order system analysis with Bode, Step & Nyquist plots | Python, Tkinter, Control, Matplotlib |
-| ⚡ [Power Grid Analysis](https://github.com/HeroicKrishna160905/power-grid-analysis) | Power-flow & contingency analysis for smart grids | Python, NumPy, Pandas |
-| 💹 [Stock Alpha Beta App](https://github.com/HeroicKrishna160905/stock-alpha-beta-app) | Interactive alpha-beta & Monte Carlo simulation for portfolio risk | Python, Streamlit, yfinance |
-| 🧬 [Neuro-Evolution Simulator](https://github.com/HeroicKrishna160905/Neuro-Evolution) | Evolutionary neural agents learning predator–prey survival | Python, NumPy, Matplotlib |
-| 📰 [Market Sentiment Analysis](https://github.com/HeroicKrishna160905/market-sentiment-analysis-project) | NLP pipeline mining financial sentiment from news & Reddit | Python, Transformers, Pandas |
-| 🎮 [ViZDoom RL Experiments](https://github.com/HeroicKrishna160905/Doom) | Deep-RL agents trained in ViZDoom vision environments | PyTorch, Gym |
-| 🖐️ [Gesture-Based Volume Control](https://github.com/HeroicKrishna160905/VolumeControl) | Real-time gesture recognition for system audio control | Python, OpenCV |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeroicKrishna160905&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeroicKrishna160905&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <a href="https://linkedin.com/in/krishna-barai-9a3889227">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HeroicKrishna160905&theme=tokyonight_duo&hide_border=true"/>
+  <!-- 4) Subtle divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
----
+## Activity
 
-## 🧩 Dynamic Visuals
-
+<!-- 3) Contribution snake -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HeroicKrishna160905&theme=algolia&margin-w=10&no-bg=true&no-frame=true"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
 </p>
 
+<!-- Footer wave -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeroicKrishna160905&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
----
-
-## 🌀 Fun Stuff
-
-```text
-🧠 Thinking in: Math → Code → Markets  
-💡 Favorite Equation: e^(iπ) + 1 = 0  
-🎮 Hobbies: AI experiments, gaming physics, financial modeling  
-```
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400">
-</p>
-
----
-
-## 📫 Connect
-
-<p align="center">
-  <a href="mailto:2024eeb052.krishna@students.iiests.ac.in"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/krishna-barai-9a3889227"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/HeroicKrishna160905"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HeroicKrishna160905&style=flat-square&color=00bfff" alt="Profile Views"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
 </p>
