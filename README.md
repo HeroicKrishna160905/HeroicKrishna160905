@@ -1,14 +1,14 @@
-<!-- 1) Gradient Header -->
+<!-- 🌊 Gradient Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=150&section=header&text=Krishna%20Barai&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- 2) Typing Animation (main) -->
+<!-- ✍️ Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Control+Systems+Engineer;Simulation+Driven+Research;RL+%7C+Physiology+%7C+Quantitative+Models" />
 </p>
 
-<!-- 7) Matrix-style line -->
+<!-- 🧬 Matrix-style line -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Modeling+Complex+Systems;Engineering+Intelligence;Math+%E2%86%92+Code+%E2%86%92+Reality" />
 </p>
@@ -19,7 +19,6 @@
 Control Systems • Computational Modeling • Reinforcement Learning • Quantitative Systems  
 
 <p align="center">
-  <!-- 4) Subtle divider -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
@@ -38,7 +37,6 @@ My work focuses on understanding and engineering **complex dynamic systems** —
 > Elegance in thought. Precision in code. Depth in understanding.
 
 <p align="center">
-  <!-- 4) Subtle divider -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
@@ -51,7 +49,6 @@ My work focuses on understanding and engineering **complex dynamic systems** —
 - Simulation-first engineering  
 
 <p align="center">
-  <!-- 4) Subtle divider -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
@@ -65,13 +62,11 @@ My work focuses on understanding and engineering **complex dynamic systems** —
 - **stock-alpha-beta-app** — Monte Carlo portfolio risk exploration  
 
 <p align="center">
-  <!-- 4) Subtle divider -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
 ## Technical Stack
 
-<!-- 5) Skill icons -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,matlab,cpp,pytorch,tensorflow,git,linux,vscode" />
 </p>
@@ -80,18 +75,16 @@ Python • MATLAB • C++
 Control Systems • Numerical Simulation • RL • Scientific Computing  
 
 <p align="center">
-  <!-- 4) Subtle divider -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
-## Stats
+## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeroicKrishna160905&show_icons=true&hide_border=true&theme=default&cache_seconds=1800" height="150"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
-  <!-- 4) Subtle divider -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
@@ -106,19 +99,7 @@ Control Systems • Numerical Simulation • RL • Scientific Computing
   </a>
 </p>
 
-<p align="center">
-  <!-- 4) Subtle divider -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
-
-## Activity
-
-<!-- 3) Contribution snake -->
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
-</p>
-
-<!-- Footer wave -->
+<!-- 🌊 Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
 </p>
